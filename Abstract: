@@ -1,0 +1,3 @@
+Semiconductor devices should have low power consumption and high speed operation when 
+it comes to deploying them in applications where computation speed matters. If we go into transistor 
+level , power consumption and area will depend on transistor operating voltage and its W/L ratio.
